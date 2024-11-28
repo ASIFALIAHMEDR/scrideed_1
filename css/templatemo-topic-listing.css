@@ -794,7 +794,7 @@ blockquote {
   content: "";
   width: 80px;
   height: 80px;
-  border: 4px solid #fff;
+  border: 4px solid #000000;
   position: absolute;
   background-color: var(--secondary-color);
   border-radius: 50%;
@@ -804,7 +804,7 @@ blockquote {
 
 .timeline-container .vertical-scrollable-timeline li .icon-holder i {
   font-size: 25px;
-  color: var(--white-color);
+  color: black;
 }
 
 .timeline-container .vertical-scrollable-timeline li::before {
