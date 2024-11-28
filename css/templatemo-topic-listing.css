@@ -12,7 +12,7 @@ https://templatemo.com/tm-590-topic-listing
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #13547a;
-  --secondary-color:              #80d0c7;
+  --secondary-color:              #ffffff;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #80d0c7;
   --custom-btn-bg-hover-color:    #13547a;
@@ -167,7 +167,7 @@ strong {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #ecf3f2;
+  border-bottom: 1px solid #08a890;
   margin-bottom: 40px;
   justify-content: center;
 }
@@ -312,7 +312,7 @@ strong {
 
 .navbar-nav .nav-link {
   display: inline-block;
-  color: var(--white-color);
+  color:black;
   font-family: var(--title-font-family); 
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
