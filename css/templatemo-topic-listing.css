@@ -11,15 +11,15 @@ https://templatemo.com/tm-590-topic-listing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #13547a;
+  --primary-color:                #747474;
   --secondary-color:              #ffffff;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #80d0c7;
-  --custom-btn-bg-hover-color:    #13547a;
+  --custom-btn-bg-color:          #747474;
+  --custom-btn-bg-hover-color:    #747474;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #13547a;
+  --link-hover-color:             #747474;
 
   --body-font-family:             'Roboto', sans-serif;
   --title-font-family:            'Roboto', sans-serif;
@@ -147,7 +147,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #747474 0%, #d5f1ee 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -167,7 +167,7 @@ strong {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #08a890;
+  border-bottom: 1px solid #000000;
   margin-bottom: 40px;
   justify-content: center;
 }
@@ -248,7 +248,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #747474 0%, #bdc0c0 100%);
   padding-top: 150px;
   padding-bottom: 80px;
 }
@@ -289,7 +289,7 @@ strong {
 
 .navbar {
   background: transparent;
-  border-bottom: 1px solid rgba(128, 208, 199, 0.35);
+  border-bottom: 1px solid rgba(100, 105, 105, 0.35);
   z-index: 9;
 }
 
@@ -486,7 +486,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #747474 0%, #747474 100%);
   position: relative;
   overflow: hidden;
   padding-top: 150px;
@@ -616,7 +616,7 @@ strong {
 }
 
 .bg-design {
-  background-color: #00B0FF;
+  background-color: #161616;
 }
 
 .bg-graphic {
@@ -628,7 +628,7 @@ strong {
 }
 
 .bg-finance {
-  background-color: #536DFE;
+  background-color: #927013;
 }
 
 .bg-music {
